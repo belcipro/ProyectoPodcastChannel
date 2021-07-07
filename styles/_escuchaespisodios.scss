@@ -1,0 +1,41 @@
+/*SECCION 6*/
+
+main .seccion6 {
+    width: 100%;
+    margin: auto;
+    height: 200px;
+}
+main .seccion6 h1{
+    width: 70%;
+    margin: auto;
+    font-size: 40px;
+    margin-bottom: 80px;
+    color: #FFF;
+    position: absolute;
+    margin-top: 50px;
+    margin-bottom: 35px;
+    text-align: justify;    
+    text-align: center;
+}
+main .escuchaespisodios {
+    position: absolute;
+    background-image: linear-gradient(225deg, #2222b3 0%, #0000A3 100%);
+    transform: skewy(-2deg);
+    width: 100%;
+    height: 200px;    
+    transform-origin: top right;
+}
+ 
+
+main .seccion6 article button{
+    font-size: 18px;
+    background-color: #00F3BB;
+    border: #00F3BB;
+    padding: 10px 15px;
+    position: relative;
+    margin-top: 130px;
+    margin-bottom: 150px;        
+    text-align: center;
+    margin-right: 30%;
+    margin-left: 30%;    
+}

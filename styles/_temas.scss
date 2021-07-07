@@ -1,0 +1,30 @@
+/*SECCION 5*/
+
+main .seccion5{
+    width: 70%;
+    margin: auto;
+    height: auto;
+    margin-top: 20px;
+}
+.seccion5 .temas-contenedor{
+    display: flex;
+    margin-top: 50px;
+    justify-content: center;
+    text-align: center;
+}
+.seccion5 h2 {
+    font-size: 40px;
+    color: #060A24;
+    
+ }
+.temas {
+    font-size: 24px;
+    color: #060A24;
+    width: 260px;
+}
+.temas img {
+   justify-content: center;
+}
+.temas p {
+    margin-top: 29px;
+}
